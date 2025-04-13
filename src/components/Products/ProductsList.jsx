@@ -24,6 +24,8 @@ const ProductsList = () => {
                 <ProductCard />
                 <ProductCard />
                 <ProductCard />
+                <ProductCard />
+                <ProductCard />
             </div>
         </section>
     );
